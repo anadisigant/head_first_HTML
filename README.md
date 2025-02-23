@@ -4,3 +4,5 @@ Repositório criado a fim de armazenar os códigos presentes no livro "Use a cab
 
 ## Documentação
 [Documentação HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[Documentação CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[XHTML](https://developer.mozilla.org/pt-BR/docs/Glossary/XHTML)
