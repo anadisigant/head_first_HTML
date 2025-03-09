@@ -94,7 +94,7 @@ a:visited {
 
 
 nav {
-    background-color: #efe5d0;
+  background-color: #efe5d0;
 	margin: 10px 10px 0px 10px;
 }
 nav ul {
@@ -118,4 +118,22 @@ nav ul li a:link, nav ul li a:visited {
 }
 nav ul li.selected {
 	background-color: #c8b99c;
+}
+
+#coupon {
+  position: fixed;
+  top: 300px;
+  left: 0px;
+}
+
+#coupon img {
+  border: none;
+}
+
+#coupon a:link {
+  border: none;
+}
+
+#coupon a:visited {
+  border: none;
 }
